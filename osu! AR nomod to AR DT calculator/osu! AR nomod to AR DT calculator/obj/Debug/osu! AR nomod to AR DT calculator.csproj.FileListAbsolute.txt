@@ -1,0 +1,10 @@
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\bin\Debug\osu! AR nomod to AR DT calculator.exe.config
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\bin\Debug\osu! AR nomod to AR DT calculator.exe
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\bin\Debug\osu! AR nomod to AR DT calculator.pdb
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu! AR nomod to AR DT calculator.csprojAssemblyReference.cache
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu__AR_nomod_to_AR_DT_calculator.Form1.resources
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu__AR_nomod_to_AR_DT_calculator.Properties.Resources.resources
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu! AR nomod to AR DT calculator.csproj.GenerateResource.cache
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu! AR nomod to AR DT calculator.csproj.CoreCompileInputs.cache
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu! AR nomod to AR DT calculator.exe
+C:\Users\Itona\source\repos\osu! AR nomod to AR DT calculator\osu! AR nomod to AR DT calculator\obj\Debug\osu! AR nomod to AR DT calculator.pdb
